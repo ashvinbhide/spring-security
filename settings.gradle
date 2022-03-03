@@ -1,1 +1,4 @@
-rootProject.name = 'springsecurity'
+rootProject.name = 'spring-security'
+
+include 'inmemory-login'
+include 'jdbc-login'
